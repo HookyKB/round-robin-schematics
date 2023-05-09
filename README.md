@@ -1,6 +1,8 @@
 # ZMK Round robin with interrupt schematics
 
-Just pluck the file you need. Probably best to copy and paste in to your kb schema.
+Just pluck the file you need. Probably best to copy and paste in to your kb schema, delete any keys you don't want to use.
+
+The files names represent the number of pins required and the maximum switch count for that pin setup.
 
 Attach the global tags given to your controller on the pins you want to use and you're on your way.
 
