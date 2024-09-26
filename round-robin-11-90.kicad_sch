@@ -3801,7 +3801,7 @@
 			)
 		)
 	)
-	(global_label "IO 5"
+	(global_label "IO 6"
 		(shape bidirectional)
 		(at 165.1 25.4 90)
 		(fields_autoplaced yes)
@@ -3813,12 +3813,12 @@
 		)
 		(uuid "89461221-a936-49a3-bf5d-18ec120f3e0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.1 17.2705 90)
+			(at 165.1 17.1911 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
